@@ -29,3 +29,6 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 ## Documentation 
 https://github.com/mmistakes/minimal-mistakes
 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+#Run Code Locally 
+bundle exec jekyll serve
