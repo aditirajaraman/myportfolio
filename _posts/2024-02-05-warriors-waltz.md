@@ -6,6 +6,7 @@ tags:
   - Post Formats
   - notice
 ---
+**Scholastics Arts and Writing Award ( Silver Key )**{: style="color: red; opacity: 0.80;" } 
 
 I listen to songs and melodies escaping <br>
 from the speaker connected to my phone<br>

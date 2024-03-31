@@ -6,6 +6,7 @@ tags:
   - Post Formats
   - quote
 ---
+**Scholastics Arts and Writing Award ( Honorable Mention )**{: style="color: goldenrod; opacity: 0.80;font-weight: bold;" } 
 
 I admire the innocenceI admire the innocence <br>
 Behind friendship bracelets.<br>

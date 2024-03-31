@@ -1,5 +1,5 @@
 ---
-title: "dancing in the rain"
+title: "Dancing in the rain"
 categories:
   - Blog
 tags:
