@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Warrior's Waltz"
 categories:
   - Blog
 tags:
@@ -7,62 +7,47 @@ tags:
   - notice
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+I listen to songs and melodies escaping <br>
+from the speaker connected to my phone<br>
+as I work on my final math problems.<br>
+In the corner of my eye,<br>
+I witness a groggy, injured wasp's walk.<br>
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+I watch as it drags its yellow leg<br>
+across the thick, dense carpet,<br>
+much like a soldier on a battlefield,<br>
+fighting its way through obstacles.<br>
+The loose carpet fur coils around it,<br>
+like plant tendrils around dead wood.<br>
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
+A ball of anger, it moves like pebbles<br>
+by a pond, carried downstream<br>
+with the motions of wind and water.<br>
+Its calmness is mesmerizing,<br>
+yet it's almost in a panic,<br>
+navigating through a new field, a prairie,<br>
+an empty field of chaos.<br>
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
+Like a soldier at war, running from everyone<br>
+and no one,<br>
+it maneuvers through wedges and edges<br>
+in the folds of rugged fabric,<br>
+combing every crumb, tasting,<br>
+each decision,<br>
+ a matter of life and death.<br>
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
+It becomes a source of shade, like a traveler<br>
+in a canyon's atrium, relying on open rivers<br>
+for direction,<br>
+rivers contaminated by dirt, dust,<br>
+and rocks the size of grains of rice.<br>
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
+It climbs up a chair, slipping along metal's grease<br>
+and black tack,<br>
+victorious in its final ascent,<br>
+looking over the canyon's edge,<br>
+ensuring its disorientation.<br>
 
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
-
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
-
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
-
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
-
-{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
-
-Or you could skip the capture and stick with straight HTML.
-
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
-
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
+Its wings lift as it prepares to leave,<br>
+defying its greatest fear,<br>
+and taking flight over the ground.<br>
