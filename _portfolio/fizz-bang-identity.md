@@ -1,6 +1,6 @@
 ---
-title: "Fizz Bang Identity"
-excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
+title: "dancing in the rain"
+excerpt: "Received a Silver Key at the Scholastics Arts and Writing Awards"
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2-th.jpg
@@ -23,8 +23,73 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+I was 7.<br>
+the rain caressed,<br>
+my lips,<br>
+and my exposed shoulders,<br>
+my yellow,<br>
+tank top,<br>
+drenched in water,<br>
+outshone the gloomy sky,<br>
+of the July evening.<br>
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+The wet mud,<br>
+that lay in front of my<br>
+driveway<br>
+squished,<br>
+and smuggled,<br>
+through each of my little,<br>
+toes.<br>
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+The earthworms,<br>
+emerged from their,<br>
+mushroom top homes,<br>
+their, <br>
+grassy hilltop burrows,<br>
+and the,<br>
+soil in which,<br>
+mossy tree stocks,<br>
+sew through,<br>
+like brown,<br>
+dusty fabrics you would find,<br>
+in an abandoned quilt factory.<br>
+
+Tiny sprouts,<br>
+of little waterfalls,<br>
+and intricate bulbs,<br>
+of water,<br>
+dive <br>
+	
+Tiny beads,<br>
+of perspiration,<br>
+cluster and navigate through,<br>
+the maze of spaces,<br>
+between each pore,<br>
+and hair,<br>
+of arm.<br>
+
+Us mortals,<br>
+dance through,<br>
+freely,<br>
+so that the sorrow within,<br>
+is transferred,<br>
+
+The dark circles,<br>
+of seclusion,<br>
+and,<br>
+despondency,<br>
+are eradicated from my soul,<br>
+until the,<br>
+storms of a salty sea,<br>
+wails of mother nature herself,<br>
+stop flowing. <br>
+until the rainbow,<br>
+of,<br>
+faint crimson,<br>
+obscured lightning orange,<br>
+pale yellow,<br>
+muzzy lime, <br>
+and,<br>
+fluorescent cyan,<br>
+bridge past the ashy clouds,<br>
+and the emerging sun.<br>

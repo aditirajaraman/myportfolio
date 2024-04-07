@@ -1,6 +1,6 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Warrior's Waltz"
+excerpt: "Received a Silver Key at the Scholastics Arts and Writing Awards"
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
@@ -23,8 +23,47 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+I listen to songs and melodies escaping <br>
+from the speaker connected to my phone<br>
+as I work on my final math problems.<br>
+In the corner of my eye,<br>
+I witness a groggy, injured wasp's walk.<br>
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+I watch as it drags its yellow leg<br>
+across the thick, dense carpet,<br>
+much like a soldier on a battlefield,<br>
+fighting its way through obstacles.<br>
+The loose carpet fur coils around it,<br>
+like plant tendrils around dead wood.<br>
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+A ball of anger, it moves like pebbles<br>
+by a pond, carried downstream<br>
+with the motions of wind and water.<br>
+Its calmness is mesmerizing,<br>
+yet it's almost in a panic,<br>
+navigating through a new field, a prairie,<br>
+an empty field of chaos.<br>
+
+Like a soldier at war, running from everyone<br>
+and no one,<br>
+it maneuvers through wedges and edges<br>
+in the folds of rugged fabric,<br>
+combing every crumb, tasting,<br>
+each decision,<br>
+ a matter of life and death.<br>
+
+It becomes a source of shade, like a traveler<br>
+in a canyon's atrium, relying on open rivers<br>
+for direction,<br>
+rivers contaminated by dirt, dust,<br>
+and rocks the size of grains of rice.<br>
+
+It climbs up a chair, slipping along metal's grease<br>
+and black tack,<br>
+victorious in its final ascent,<br>
+looking over the canyon's edge,<br>
+ensuring its disorientation.<br>
+
+Its wings lift as it prepares to leave,<br>
+defying its greatest fear,<br>
+and taking flight over the ground.<br>
