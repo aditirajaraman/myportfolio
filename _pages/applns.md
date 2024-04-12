@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Apps
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /apps/
+collection: apps
 entries_layout: grid
 classes: wide
 ---
