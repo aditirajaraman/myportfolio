@@ -162,7 +162,7 @@ Split datasets into training and testing datasets. We used a 70-30% training / t
 <br>
 
 <div style="text-align: center;"><b>Distribution of Model Parameters against Target Variable <br> ( Cardiovascular Disease)</b></div>
-![Bioinformatics Architecture](https://.github.io/myportfolio/assets/images/stroke_fig3.png)
+![Bioinformatics Architecture](https://aditirajaraman.github.io/myportfolio/assets/images/stroke_fig3.png)
 <br>
 
 <div style="text-align: center;"><b>Distribution of Model Parameters against Target Variable <br> ( Stroke Detection)</b></div>
