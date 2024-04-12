@@ -1,6 +1,8 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Posts"
-    url: /posts/
+    url: /year-archive/
   - title: "Portfolio"
     url: /portfolio/
   - title: "About"
