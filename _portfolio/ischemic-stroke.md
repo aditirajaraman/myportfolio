@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "BioInformatics, PPG Sensor, Machine Learning, IOMT"
   - title: "Description"
-    text: "Create a portable, wearable product that will detect and monitor Ischemic Strokes"
+    text: "Create a portable, wearable product that will detect and monitor Ischemic Strokes. Presented at Bergen County Academics, Research Competition, April 2023"
 ---
 
 ## ABSTRACT
