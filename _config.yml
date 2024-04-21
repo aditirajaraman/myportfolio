@@ -110,9 +110,9 @@ author:
   location         : "New Jersey USA"
   email            : "aditirajaraman10272008@gmail.com"
   links:
-    - label: "Website"
+    - label: "Medium"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://medium.com/@aditirajaraman10272008"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
